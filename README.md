@@ -246,6 +246,6 @@ r_max <= 2^27
 
 If you use this code, please cite:
 
-Juan Camilo Hernández-Torres, *"Observaciones Sobre ...."*, 2026.
+Juan Camilo Hernández-Torres, *"Observaciones Sobre Sumas de Productos deSucesiones de Primos y Números de Mersenne"*, 2026.
 
 DOI: [10.5281/zenodo.20060273](https://doi.org/10.5281/zenodo.20060273)
