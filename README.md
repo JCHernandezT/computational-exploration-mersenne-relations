@@ -1,6 +1,6 @@
 # Computational Exploration of the S(u,v,r) Relation
 
-This repository contains the code used to perform the computational experiment described in *Observaciones Sobre Sumas de Productos deSucesiones de Primos y Números de Mersenne*.
+This repository contains the code used to perform the computational experiment described in *Observations on Sums of Products of Prime Sequences and Mersenne Numbers*.
 
 The implementation is designed for deterministic exploration in number theory, with emphasis on performance and reproducibility.
 
@@ -246,6 +246,6 @@ r_max <= 2^27
 
 If you use this code, please cite:
 
-Juan Camilo Hernández-Torres, *"Observaciones Sobre Sumas de Productos deSucesiones de Primos y Números de Mersenne"*, 2026.
+Juan Camilo Hernández-Torres, *"Observations on Sums of Products of Prime Sequences and Mersenne Numbers"*, 2026.
 
 DOI: [10.5281/zenodo.20060272](https://doi.org/10.5281/zenodo.20060272)
