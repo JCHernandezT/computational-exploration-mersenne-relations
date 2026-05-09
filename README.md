@@ -1,6 +1,6 @@
 # Computational Exploration of the S(u,v,r) Relation
 
-This repository contains the code used to perform the computational experiment described in *Observations on Sums of Products of Prime Sequences and Mersenne Numbers*.
+This repository contains the code used to perform the computational experiment described in the research note "*Observations on Sums of Products of Prime Sequences and Mersenne Numbers*" [doi:10.5281/zenodo.20059740](https://doi.org/10.5281/zenodo.20059740)
 
 The implementation is designed for deterministic exploration in number theory, with emphasis on performance and reproducibility.
 
@@ -112,7 +112,7 @@ This script can be used independently for validation and analysis.
 
 #### Usage
 
-Run this command to explore solutions:
+Run the following command:
 
 ```
 python compute_s.py --u 1 --v 13 --r 2
@@ -246,6 +246,4 @@ r_max <= 2^27
 
 If you use this code, please cite:
 
-Juan Camilo Hernández-Torres, *"Observations on Sums of Products of Prime Sequences and Mersenne Numbers"*, 2026.
-
-DOI: [10.5281/zenodo.20060272](https://doi.org/10.5281/zenodo.20060272)
+Juan Camilo Hernández-Torres (2026) “JCHernandezT/computational-exploration-mersenne-relations: Initial public release”. Zenodo. [doi:10.5281/zenodo.20059741](https://doi.org/10.5281/zenodo.20059741).
