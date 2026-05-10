@@ -1,6 +1,6 @@
 # Computational Exploration of the S(u,v,r) Relation
 
-This repository contains the code used to perform the computational experiment described in the research note "*Observations on Sums of Products of Prime Sequences and Mersenne Numbers*" [doi:10.5281/zenodo.20059740](https://doi.org/10.5281/zenodo.20059740)
+This repository contains the code used to perform the computational experiment described in the research note "*Observations on Sums of Products of Prime Sequences and Mersenne Numbers*" [doi:10.5281/zenodo.20060272](https://doi.org/10.5281/zenodo.20060272)
 
 The implementation is designed for deterministic exploration in number theory, with emphasis on performance and reproducibility.
 
